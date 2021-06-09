@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ventas</string>
+    <string name="description_img_foto">Imagen de la venta</string>
+    <string name="description_add_product">Agregar producto</string>
+</resources>
